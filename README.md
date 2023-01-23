@@ -1,26 +1,19 @@
 # WebAPICodeQuiz
+
 User Story:
 AS A coding boot camp student I WANT to take a timed quiz on JavaScript fundamentals that stores high scores SO THAT I can gauge my progress compared to my peers
 
 ## Description 
 
-Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
+This project was intended to go over our learnings of the week which involved Javascript eventlisteners, using local storage, using timers/countdown, as well as building on our other JS knowledge such as methods, arrays.
 
-The quality of a README often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase what your application does, justify the technologies used, and even talk about some of the challenges you faced and features you hope to implement in the future. A good README helps you stand out among the large crowd of developers putting their work on GitHub.
-
-There's no one right way to structure a good README. There is one very wrong way, however, and that is to not include a README at all or to create a very anemic one. This guide outlines a few best practices. As you progress in your career, you will develop your own ideas about what makes a good README.
-
-At a minimum, your project README needs a title and a short description explaining the what, why, and how. What was your motivation? Why did you build this project? (Note: The answer is not "Because it was a homework assignment.") What problem does it solve? What did you learn? What makes your project stand out? 
-
-Lastly, if your project is deployed, include a link to the deployed application here.
-
-If you're new to Markdown, read the GitHub guide on [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
-
-If you need an example of a good README, check out [the VSCode repository](https://github.com/microsoft/vscode).
+I found this project quite tricky as I didnt have much time to go over what we had learnt and also apply it to the project. 
+However, it is interesting to add functionality and interactivity to the HTML, as well as use different html pages, which we haven't done before.
 
 
 The deployed application can be found here at:
 
+https://resonantdevotion.github.io/WebAPICodeQuiz/
 
 
 
@@ -28,19 +21,16 @@ The deployed application can be found here at:
 N/A
 
 ## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+N/A
 
 
 ## Usage 
+The application should look like the two images below.
 
-Provide instructions and examples for use. Include screenshots as needed. 
+<img width="1440" alt="Screenshot 2023-01-23 at 7 40 57 PM" src="https://user-images.githubusercontent.com/119468426/213990216-08c21b1c-040b-4823-bb71-37a29bc20a09.png">
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+<img width="1440" alt="Screenshot 2023-01-23 at 8 56 20 PM" src="https://user-images.githubusercontent.com/119468426/213990228-1baf7175-49a0-4142-bd35-171234477c1c.png">
 
-```md
-![alt text](assets/images/screenshot.png)
-```
 
 
 ## Credits
@@ -56,7 +46,7 @@ MIT license.
 N/A
 
 ## Features
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
+N/A
 
 ## Contributing
 For contributions please find me on the skills bootcamp slack channel!
