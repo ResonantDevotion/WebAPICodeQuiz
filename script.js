@@ -79,9 +79,9 @@ startButton.addEventListener('click', function () {
     button3.textContent = firstQuestion.choices[2];
 
     // 
-    button1.addEventListener('click', function (){
-        if 
-    })
+    // button1.addEventListener('click', function (){
+    //     if 
+    // })
 
 
 
