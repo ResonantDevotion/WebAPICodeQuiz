@@ -34,7 +34,7 @@ The application should look like the two images below.
 
 
 ## Credits
-Thanks to Skills Bootcamp, my tutor, Weng, and my classmates on slack.
+Thanks to Skills Bootcamp, my tutor, Armando, and my classmates on slack.
 
 ## License
 MIT license.
